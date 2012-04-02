@@ -1,0 +1,9 @@
+What?
+Lego NXT running Lejos driven by Nokia N900 accelerometer data over Bluetooth made for a course in University of Helsinki on 03/2011.
+
+The robot
+The Lego robot is assumed to have two motors each driving wheels on the left or right side
+
+NXTBluetoothControlledCar is the Java code running on Lejos installed to an NXT. BTControlledCar is the main class.
+
+N900BluetoothDriver is the Python code running on N900. It uses Qt, QML and Bluez. BTDriverUI is the main class.
